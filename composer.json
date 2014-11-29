@@ -1,0 +1,21 @@
+{
+    "name": "cygnite/proxy",
+    "license": "MIT",
+    "keywords": ["Cygnite", "Proxy Resolver", "Design Pattern"],
+    "authors": [
+        {
+            "name": "Sanjoy Dey",
+            "email": "dey.sanjoy0@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cygnite\\Proxy": ""
+        }
+    },
+    "target-dir": "Cygnite\\Proxy",
+    "minimum-stability": "dev"
+}
