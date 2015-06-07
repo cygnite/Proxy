@@ -2,6 +2,7 @@
     "name": "cygnite/proxy",
     "license": "MIT",
     "keywords": ["Cygnite", "Proxy Resolver", "Design Pattern"],
+    "description": "Cygnite Proxy Resolver Component. This package use for accessing non static methods statically.",
     "authors": [
         {
             "name": "Sanjoy Dey",
